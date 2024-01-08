@@ -6,10 +6,3 @@ I’m Karan KUmar **I’m currently learning:**  <br> MERN STACK<br><br>💬 **A
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# My Awesome Project
-
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository.svg)](https://github.com/your-username/your-repository/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/your-repository.svg)](https://github.com/your-username/your-repository/network)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/your-repository.svg)](https://github.com/your-username/your-repository/issues)
-[![GitHub license](https://img.shields.io/github/license/your-username/your-repository.svg)](https://github.com/your-username/your-repository/blob/main/LICENSE)
-
