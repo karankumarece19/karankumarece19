@@ -1,4 +1,4 @@
-I’m Karan KUmar **I’m currently learning:**  <br> MERN STACK<br><br>💬 **Ask me about:**  <br>JavaScript,Html,Css,Dsa.<br><br>⚡ **Fun fact:**  <br>I Enjoy Playing with Codes.
+<h1> Hii I’m Karan Kumar<br> **I’m currently learning:** MERN STACK<br><br>💬 **Ask me about:** JavaScript,Html,Css,Dsa.<br><br>⚡ **Fun fact:** I Enjoy Playing with Codes.
 
 
 ## 🌐 Socials:
