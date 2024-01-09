@@ -8,8 +8,9 @@
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
-# 🔥 Github Streak:<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karankumarece19&theme=dark)](https://git.io/streak-stats)
+# 🔥 Github Stats:<br>
+![karankumarece19's Stats](https://github-readme-stats.vercel.app/api?username=karankumarece19&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <br>
 # 👀 Github Profile Visitor:<br>
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=karankumarece19&label=PROFILE%20VISITORS&labelColor=%232ccce4&countColor=%23555555&labelStyle=upper)](https://visitorbadge.io/status?path=karankumarece19)
+<br>
