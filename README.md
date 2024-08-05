@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 **Hey I’m Karan Kumar** <br>
-<br> **I’m currently learning: MERN STACK<br><br>💬 Ask me about : JavaScript , Html , Css , Dsa.<br><br>⚡Fun fact: I Enjoy Playing with Codes.**
+<br> **I’m currently learning: MERN STACK<br><br>💬 Ask me about : React, JavaScript , Html , Css , Dsa.<br><br>⚡Fun fact: I Enjoy Playing with Codes.**
 
 
 ## 🌐 Socials:
