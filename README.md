@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 **Hey I’m Karan Kumar** <br>
-<br> **I’m currently learning: MERN STACK<br><br>💬 Ask me about : JavaScript , React , Nextjs , Node.js , Express.js , Dsa.<br><br>⚡Fun fact: I Enjoy Playing with Codes.**
+<br> **I’m currently learning: MERN STACK<br><br>💬 Ask me about : React , Nextjs , Node.js , JavaScript , Express.js , SQL ,MongoDB, DSA.<br><br>⚡Fun fact: I Enjoy Playing with Codes.**
 
 
 ## 🌐 Socials:
